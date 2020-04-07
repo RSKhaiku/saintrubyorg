@@ -6,4 +6,4 @@ This website is in development, not long before it will publish.
 
 <iframe style="background-color: white;" width="728" height="90" scrolling="no" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" name="spot_id_2864521" src="//ads2.contentabc.com/ads?spot_id=2864521&ata=SantaMariaBBQsauce"></iframe>
 
-<iframe style="background-color: white;" width="160" height="600" scrolling="no" frameborder="0" allowtransparency="true" marginheight="0" marginwidth="0" name="spot_id_2864485" src="//ads2.contentabc.com/ads?spot_id=2864485&ata=SantaMariaBBQsauce"></iframe>
+<iframe style="background-color: white;" width="160" height="600" scrolling="no" frameborder="0" allowtransparency="true" marginheight="1280" marginwidth="1280" name="spot_id_2864485" src="//ads2.contentabc.com/ads?spot_id=2864485&ata=SantaMariaBBQsauce"></iframe>
