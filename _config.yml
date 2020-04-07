@@ -1,6 +1,1 @@
 theme: jekyll-theme-midnight
-{% if site.github.is_project_page %} 
-        <a href="{{ site.github.RSKhaiku/saintrubyorg }}" id="view-on-github" class="button"><span>View on GitHub</span></a> 
- {% else %} 
-        <a href="{{ site.github.RSKhaiku }}" id="view-on-github" class="button"><span>View on GitHub</span></a> 
- {% endif %} 
