@@ -267,7 +267,7 @@
 	#header
 	{
 		position: 100% 100%;
-		background: #ddd url(../images/header500.png) no-repeat bottom;
+		background: #ddd url(images/header500.png) no-repeat bottom;
 		background-size: 100%;
 	}
 
