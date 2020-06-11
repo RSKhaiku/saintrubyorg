@@ -266,9 +266,9 @@
 
 	#header
 	{
-		position: relative;
-		background: #ddd url(../images/header.jpg) no-repeat center;
-		background-size: cover;
+		position: 100% 100%;
+		background: #ddd url(../images/header5.png) no-repeat bottom;
+		background-size: 100%;
 	}
 
 	#logo
