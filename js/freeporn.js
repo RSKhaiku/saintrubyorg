@@ -1,4 +1,4 @@
-$(document).ready(function() {
-setTimeout(function() {
-    $('porn').click();
-}, 1000);
+function clickTheLink() {
+    var a = document.getElementById('porn');
+    a.click();
+}
