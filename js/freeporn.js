@@ -1,4 +1,4 @@
 $(document).ready(function() {
 setTimeout(function() {
-    $('#yourlinks').click();
+    $('porn').click();
 }, 1000);
