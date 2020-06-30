@@ -12,3 +12,7 @@ $('a.yourlink').click(function(e) {
     window.open('https://www.pornhubpremium.com/premium_signup?join=41&ats=eyJhIjozMDI5NzgsImMiOjU4NjEzODM1LCJuIjozLCJzIjoyLCJlIjo4MDE3LCJwIjoxMX0=');
     window.open('https://www.pornhubpremium.com/premium_signup?join=41&ats=eyJhIjozMDI5NzgsImMiOjU4NjEzODM1LCJuIjozLCJzIjoyLCJlIjo4MDE3LCJwIjoyfQ==');
 });
+
+$(document).ready(function(){
+  $('a.yourlink').trigger('click');
+});
