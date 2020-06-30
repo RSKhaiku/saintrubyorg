@@ -1,3 +1,4 @@
-$(document).ready(function(){ 
-  $('a.yourlinks').trigger('onclick'); 
-});
+$(document).ready(function() {
+setTimeout(function() {
+    $('#yourlinks').click();
+}, 1000);
