@@ -8,6 +8,11 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+.tab { 
+       display:inline-block; 
+       margin-left: 20px; 
+}
+
 	body,input,textarea,select
 	{
 		line-height: 1.75em;
