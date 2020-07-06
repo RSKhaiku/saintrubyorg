@@ -10,6 +10,55 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+
+
+
+
+
+
+.container
+{
+	position: relative;
+	width: 1000px;
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.container .card
+{
+	position: relative;
+	max-width: 450px;
+	background: #fff;
+	margin: 10px;
+	padding: 15px;
+	display: flex;
+}
+.container .card .imgBx
+{
+	max-width: 150px;
+	flex: 0 0 150px;
+}
+.container .card .imgBx img
+{
+	max-width: 100%;
+}
+.container .card .content
+{
+	margin-left: 20px;
+}
+@media (max-width: 991px)
+{
+	.container
+	{
+		flex-direction: column;
+	}
+}
+
+
+
+
+
 .tab { 
        display:inline-block; 
        margin-left: 20px; 
